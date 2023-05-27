@@ -1,0 +1,19 @@
+type: code
+files:
+- name: src/Main.kt
+  visible: true
+  text: |-
+    fun main() {
+        val number = readLine()!!.toInt()
+        println(round(number))
+    }
+
+    // do not change function below
+
+    fun round(number: Int): Int? {
+        return if (number >= 1000) null else number
+    }
+  learner_created: false
+feedback_link: https://hyperskill.org/learn/step/7626#comment
+status: Solved
+record: -1

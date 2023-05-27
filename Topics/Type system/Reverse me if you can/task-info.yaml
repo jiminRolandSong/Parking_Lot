@@ -1,0 +1,12 @@
+type: code
+files:
+- name: src/Main.kt
+  visible: true
+  text: |-
+    fun reverse(input: Int?): Int {
+        return 0
+    }
+  learner_created: false
+feedback_link: https://hyperskill.org/learn/step/9698#comment
+status: Unchecked
+record: -1
